@@ -1,0 +1,53 @@
+html {
+    background-image: url(../graphic/textured-background-1438312728Tsk.jpg);
+}
+
+body {
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    text-align: center;
+}
+
+body {}
+
+a {
+    font-size: 12pt;
+    color: #f7ec13;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #fff;
+}
+
+h1 {
+    font-size: 36pt;
+    color: #000;
+    border-top: 2px dotted #686143;
+    border-bottom: 2px dotted #686143;
+    text-transform: uppercase;
+    background-color: azure;
+    font-family: 'Shrikhand', cursive;
+    width: 960px;
+    height: auto;
+    margin: auto;
+    text-align: center;
+}
+
+p {
+    font-size: 12pt;
+    line-height: 14pt;
+    font-family: 'Special Elite', cursive;
+    background-color: azure;
+    width: 960px;
+    height: auto;
+    margin: auto;
+    text-align: center;
+}
+
+img {
+    border: medium solid #666;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, .3);
+}
